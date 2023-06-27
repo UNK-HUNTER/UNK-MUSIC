@@ -1,5 +1,5 @@
 {
-    "name": "MAFIA ダ REMIX",
+    "name": "UNK ダ MUSIC",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://telegra.ph/file/c9bf09ab92ce5432b4cb7.jpg",
     "keywords": [
@@ -14,37 +14,37 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "9286828",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "f56bbad9d14cda679568dbdcb18bef4e",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "6265914083:AAGAeiooHlpltMnkDigZMRVvfdbJtDUYi8c",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "mongodb+srv://hotspotm:hotspotm@cluster0.q9kiv20.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "ᴀɴᴏɴ ダ ᴍᴜsɪᴄ",
+        "value": "UnK ダ MUSIC",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "1211015395",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-        "value": "",
+        "value": "BQAuHqwVbdXSvbjzG3ClwDTGjt3xl31bpnRrUS50cCsfiLz_3BrfUegf6-r3mCRUPY3Vukgy-6MDwuJ8VHQ7bXM2k-Dis-u14WOS5hY6SALynfIx8zVyqXFrh1SJCGPPDmb6Flem0LV0lB6aOQnRS1xPKmS4FI8NYGZ1STpruQWhCHJjwEda0YXBDDnVXb8e3DvKpIA8wIK6kx29g8a_8MwuuGkJNL0JcNuWYfJMaRJOm2zLovhG3bLCjIG5YCki0iI-0hVgrBrfW9Ighds14kL8jdi-ufmHefSvwG2KgKgjvppLe3VkyA2iKZnKgTQgG794wQPoYQXLETnD2R41_tq4AAAAAVyLGkAA",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -59,7 +59,7 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "",
+        "value": "-1001632249971",
         "required": true
       }
     },
